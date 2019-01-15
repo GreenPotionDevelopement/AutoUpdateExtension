@@ -1,0 +1,12 @@
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\bin\Debug\AutoUpdateExtension.dll
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\bin\Debug\AutoUpdateExtension.pdb
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.dll
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.pdb
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.csproj.CopyComplete
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\MagiX.AutoUpdate.UpdaterForm.resources
+C:\Users\Elev\source\repos\AutoUpdateExtension\AutoUpdateExtension\obj\Debug\AutoUpdateExtension.csproj.GenerateResource.cache
